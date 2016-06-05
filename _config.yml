@@ -10,8 +10,8 @@ title: Prabhakaran Senthilnathan
 email: prabhakaran9397@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Learn Programming here.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://prabhakaran9397.co" # the base hostname & protocol for your site
+baseurl: "http://prabhakaran9397.co/" # the subpath of your site, e.g. /blog
+url: "http://prabhakaran9397.co/" # the base hostname & protocol for your site
 twitter_username: prabhakaran9397
 github_username:  prabhakaran9397
 
